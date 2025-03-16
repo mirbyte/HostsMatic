@@ -2,8 +2,8 @@
 If you're an advanced user, this probably ain't for you. DNS over HTTPS skips the use of hosts file.
 
 
-## Why?
+### Why?
 My parents needed this.
 
-Sources:
+### Sources:
 - https://github.com/StevenBlack/hosts
