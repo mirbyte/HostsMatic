@@ -4,7 +4,7 @@ If you're an advanced user, this probably ain't for you. DNS over HTTPS skips th
 
 
 ### Why?
-My parents needed this.
+I made this for my parents.
 
 ### Sources:
 - https://github.com/StevenBlack/hosts
