@@ -1,6 +1,6 @@
 # Windows-Hosts-File-Blocklist-Automater
 # *EARLY TEST RELEASE* !
-If you're an advanced user, this probably ain't for you. DNS over HTTPS skips the use of hosts file.
+If you're an advanced user, this probably ain't for you. Note that DNS over HTTPS skips the use of hosts file.
 
 
 ### Why?
