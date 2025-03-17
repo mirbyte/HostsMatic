@@ -1,5 +1,6 @@
-# Windows-Hosts-File-Blocklist-Automater
-# *EARLY TEST RELEASE* !
+# HostsMatic
+*Windows-Hosts-File-Blocklist-Automater*
+## EARLY TEST RELEASE !
 If you're an advanced user, this ain't for you. Note that DNS over HTTPS skips the use of hosts file. These three files work together to provide a complete solution for managing Windows hosts file updates with blocklists, including installation, operation, and removal.
 
 ### 1. installer.bat
