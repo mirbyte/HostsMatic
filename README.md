@@ -1,5 +1,5 @@
 # Windows-Hosts-File-Blocklist-Automater
-## *EARLY TEST RELEASE*
+# *EARLY TEST RELEASE*!
 If you're an advanced user, this probably ain't for you. DNS over HTTPS skips the use of hosts file.
 
 
