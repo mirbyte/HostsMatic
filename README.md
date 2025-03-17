@@ -1,7 +1,7 @@
 # HostsMatic
 *Windows-Hosts-File-Blocklist-Automater*
 ## EARLY TEST RELEASE !
-Usage of hosts file is outdated method but many people still use it. DNS over HTTPS skips the use of hosts file. These three files work together to provide a complete solution for managing Windows hosts file updates with blocklists, including installation, operation, and removal.
+Usage of hosts file is an outdated method but many people still use it. DNS over HTTPS skips the use of hosts file. These three files work together to provide a complete solution for managing Windows hosts file updates with blocklists, including installation, operation, and removal.
 
 ### 1. installer.bat
    - Windows batch script that installs HostsMatic
